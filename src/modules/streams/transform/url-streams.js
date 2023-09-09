@@ -6,5 +6,5 @@ export const fetch = {transform(fetchArguments,controller){
 }};
   
 export const reFetchIfPossible = transform(response,controller){
-  data.statusCode.startsWith(3) && fetch(response.url)
+  data.statusCode.startsWith(3) && controller.enqueue(response.url)
 }};
