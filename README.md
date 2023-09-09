@@ -9,3 +9,6 @@ It is a train able Operating System designed to create and run autonomouse ai ag
 - Full LLVM and other compiler infrastructure interfaces
 - QuaternionDB First of its kind live programm able Software 2.0 DB able to perform live computation on simulated structures.
 - Programm able via common legacy Software supports development on near all human driven operating systems. 
+
+## Contribution
+You don't!
